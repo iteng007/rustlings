@@ -7,7 +7,8 @@ exercises/clippy/Cargo.toml
 exercises/clippy/Cargo.lock
 rust-project.json
 .idea
-.vscode/*
-!.vscode/extensions.json
 *.iml
 *.o
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
